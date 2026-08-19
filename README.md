@@ -25,4 +25,4 @@ A simple calculator program that performs basic arithmetic operations.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/calculator.git
+git clone https://github.com/Mahjabeen844/calculator.git
