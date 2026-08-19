@@ -17,8 +17,8 @@ A simple calculator program that performs basic arithmetic operations.
 
 ## Screenshot
 
-![Calculator Screenshot](Calculator - 01.png)
-![Calculator Screenshot](Calculator - 02.png)
+![Calculator Screenshot](Calculator-01.png)
+![Calculator Screenshot](Calculator-02.png)
 
 ## How to Run
 
