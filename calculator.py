@@ -1,4 +1,4 @@
-print("Calculator")
+print("Basic Calculator")
 
 while True:
     print("\nChoose an operation:")
