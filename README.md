@@ -15,6 +15,11 @@ A simple calculator program that performs basic arithmetic operations.
 
 - Python
 
+## Screenshot
+
+![Calculator Screenshot](Calculator-01.png)
+![Calculator Screenshot](Calculator-02.png)
+
 ## How to Run
 
 1. Clone the repository:
